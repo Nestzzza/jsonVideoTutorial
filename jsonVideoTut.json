@@ -1,0 +1,36 @@
+{
+  "User Info":[
+    {
+      "UserID":"0",
+      "FirstName":"Suranan",
+      "Surname":"Panklang",
+      "PlayerDesc":"Into VR development and creating and creating games",
+      "MaxGold":"523",
+      "Team":"Red"
+    },
+    {
+      "UserID":"1",
+      "FirstName":"Artit",
+      "Surname":"Homdung",
+      "PlayerDesc":"Into VR development and creating and creating games",
+      "MaxGold":"523",
+      "Team":"Red"
+    },
+        {
+      "UserID":"2",
+      "FirstName":"B",
+      "Surname":"B",
+      "PlayerDesc":"Into VR development and creating and creating games",
+      "MaxGold":"523",
+      "Team":"Red"
+    },
+        {
+      "UserID":"3",
+      "FirstName":"C",
+      "Surname":"C",
+      "PlayerDesc":"Into VR development and creating and creating games",
+      "MaxGold":"523",
+      "Team":"Red"
+    }
+    ]
+}
